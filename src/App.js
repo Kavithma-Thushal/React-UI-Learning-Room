@@ -1,9 +1,9 @@
-import Demo from "./pages/Demo";
+import Bootstrap from "./pages/Bootstrap";
 
 export default function App() {
     return (
         <div>
-            <Demo />
+            <Bootstrap />
         </div>
     );
 }
