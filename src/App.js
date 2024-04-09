@@ -1,4 +1,5 @@
 import Bootstrap from "./pages/Bootstrap";
+import MaterialUI from "./pages/MaterialUI";
 import ReactBootstrap from "./pages/ReactBootstrap";
 
 export default function App() {
@@ -6,6 +7,7 @@ export default function App() {
         <div>
             <Bootstrap />
             <ReactBootstrap />
+            <MaterialUI />
         </div>
     );
 }
