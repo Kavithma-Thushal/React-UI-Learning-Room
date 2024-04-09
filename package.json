@@ -10,7 +10,8 @@
     "react-bootstrap": "^2.10.2",
     "react-bootstrap-icons": "^1.11.3",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "tailwindcss": "^3.4.3"
   },
   "scripts": {
     "start": "react-scripts start"
