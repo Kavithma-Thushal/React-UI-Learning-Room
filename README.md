@@ -13,8 +13,24 @@ As a self-learner, I embarked on this project to gain practical experience in bu
 * Material UI: Leveraged Material UI's rich component library for React applications.
 * Tailwind CSS: Experimented with utility-first CSS framework for rapid UI development.
 
-## How to Use
+## Getting Started
+To get started with this project, follow these steps:
+* Clone the repository: git clone https://github.com/Kavithma-Thushal/React-UI-Learning-Room.git
+* Install dependencies: `npm install`
+* Run the development server: `npm start`
+* Open your browser: Navigate to http://localhost:3000 to view the React-UI Application.
 
-Feel free to explore the different directories and dive into the code to see how each UI framework was implemented in React. I hope this repository serves as a helpful resource for those looking to learn about frontend development with React and popular UI libraries.
+### Version
 
-If you have any questions, suggestions, or improvements, please feel free to open an issue or submit a pull request. Happy coding!
+1.0.0
+
+⭐️If you hava any bugs or issues ,If you want to explain code please contact me on :<br/>
+[kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com)<br/><br/>
+
+<div align="center">
+
+#### This project is licensed under the [MIT License](LICENSE)
+
+#### © 2024 All Right Reserved, Designed By [Kavithma Thushal](https://github.com/Thushal2001)
+
+</div>
